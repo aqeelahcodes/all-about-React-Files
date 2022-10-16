@@ -2,7 +2,7 @@
 
 The folder and file structure of your React project
 README.md: .md indicates the file is a markdown file. This means it’s designed to be easy to write using any generic text editor and easy to read in its raw form. A lot of source code projects come with a README.md file that gives instructions and useful information about the project. Pushing your projects to GitHub will enable a README file to be display information on the repositories. 
-node_modules/:  ¬¬This folder displays all the node packages installed via npm automatically when you create a project. Don’t touch this folder.
+node_modules/:  This folder displays all the node packages installed via npm automatically when you create a project. Don’t touch this folder.
  package.son: : This file shows you a list of node package dependencies and other project configurations
 package-lock.json: This file indicates npm how to break down all node package versions. Don’t not touch this file
  .gitignore: This file displays all files and folders that shouldn’t be added to your git repository when using git, as such files and folders should be located only in your local project. The node_modules/ folder is one example. It is enough to share the package.json file with others, so they can install dependencies on their end with npm install without your entire dependency folder.
