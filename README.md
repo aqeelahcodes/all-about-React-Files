@@ -1,6 +1,6 @@
 # All-About-React-Files
 
-##The folder and file structure of your React project
+The folder and file structure of your React project
 
 README.md: .md indicates the file is a markdown file. This means it’s designed to be easy to write using any generic text editor and easy to read in its raw form. A lot of source code projects come with a README.md file that gives instructions and useful information about the project. Pushing your projects to GitHub will enable a README file to be display information on the repositories. 
  
